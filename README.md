@@ -12,20 +12,21 @@ Feel free to contact me if you want to help with something or only to get talk o
 &mdash;All the best, 𝕯𝔞𝔳𝔦𝔡 𝕷𝔞𝔫𝔡𝔞
 
 <details>
-    <summary>Summary</summary>
-    <img src="http://www.madmusick.cz/obaly/darkthrone_under-a-funeral-moon-big.jpg" width="100%" />
+<summary>Summary</summary>
+<img src="http://www.madmusick.cz/obaly/darkthrone_under-a-funeral-moon-big.jpg" width="100%" />
 </details>
 
 <details>
-  <summary>Thoughts</summary>
-  Comming soon&hellip;
+<summary>Thoughts</summary>
+Comming soon&hellip;
 </details>
 
 <details>
-    <summary>Quotes</summary>
+<summary>Quotes</summary>
 
-    <blockquote>
-        Code tells you how; Comments tell you why.</br>
-        &mdash;Jeff Atwood (aka Coding Horror)
-    </blockquote>
+<blockquote>
+    Code tells you how; Comments tell you why.</br>
+    &mdash;Jeff Atwood (aka Coding Horror)
+</blockquote>
+
 </details>
