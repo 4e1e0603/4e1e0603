@@ -3,7 +3,7 @@
 Hello, I am a _chaotic good_ programmer with an interest in __business analysis__, __simulations__, __visualization__ of all kinds, __domain modeling__, __workflow systems__, and __computer language design__ and __history__.
 
 
-Here is a list of programming languages and other technologies which I more or less use: __C++__, __Clojure__, __Haskell__, __Julia__, __Python__, __R__, __Rust__, __Scala__, __Wolfram__, __Smalltalk__, __REST__, __Docker__, __SQL__, __Excel__, __Linux__, __Windows__.
+Here is a list of programming languages and other technologies which I more or less use: __C++__, __Haskell__, __Julia__, __Python__, __R__, __Rust__, __Scala__, __Wolfram__, __Smalltalk__, __REST__, __Docker__, __SQL__, __Excel__, __Linux__, __Windows__.
 
 <sub>My profile picture is an output from some _random walk_ simulation.
 
