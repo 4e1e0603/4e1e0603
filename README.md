@@ -5,8 +5,9 @@ Hello, I am a _chaotic good_ programmer with an interest in  __simulations__, __
 Here is a list of some skills and technologies which I more or less use 
 - __C__, __C++__, __Fortran__, __Julia__, __Python__, __R__, __Wolfram__, __MATLAB__
 - __Scala__, __SQL__, __Excel__, __Docker__, __Erlang__/__Elixir__, __Raku__, __Haskell__
-- __Ubuntu/Debian__/__Windows__, __CLI__, __REST__, __F#__, __OCaml__, __Lisp/Scheme__,  __APL__
-- __Profiling__/__Debugging__, __CI/CD__, __Node__, __Java/Type/Script__, __Qt/PySide__
+- __F#__, __OCaml__, __Lisp/Scheme__,  __APL__, __Node__, __Java/Type/Script__, __Qt/PySide__
+- __SDL__, __Vulkan__, __WebGL__, __OpenGL__, __Blender__, __Unreal Engine__, __Godot Engine__
+- __Ubuntu/Debian__/__Windows__, __CLI__, __REST__ __Profiling__/__Debugging__, __CI/CD__
 
  &hellip; or I'm willing to learn them `¯\_(ツ)_/¯`
 
