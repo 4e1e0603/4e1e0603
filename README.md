@@ -14,16 +14,6 @@ Here is a list of some skills and technologies which I more or less use
 <details>
 <summary>Summary</summary>
 
-<img src="http://www.madmusick.cz/obaly/darkthrone_under-a-funeral-moon-big.jpg" width="100%" />
-
-<blockquote>
-    Code tells you how; Comments tell you why.</br>
-    &mdash;Jeff Atwood (aka Coding Horror)
-</blockquote>
-
-<blockquote>
-    Programming in C++ is a true art because it is so subjective.</br>
-    &mdash;David Landa
-</blockquote>
+<img src="http://www.madmusick.cz/obaly/darkthrone_under-a-funeral-moon-big.jpg" width="50%" />
 
 </details>
