@@ -8,6 +8,8 @@ Hello, I am a _chaotic good_ programmer with an interest in  __simulations__ & _
 
 &mdash;All the best, 𝕯𝔞𝔳𝔦𝔡 𝕷𝔞𝔫𝔡𝔞
 
+https://twitter.com/loige/status/1302913428223336448
+
 <details>
 <summary>Summary</summary>
 
