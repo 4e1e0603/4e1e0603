@@ -10,7 +10,7 @@ Hello, I am a _chaotic good_ programmer with an interest in  __simulations__ & _
 
 
 <ol>
-  <li>I have no respect for ownership (rusty joke).</li>
+  <li>I have no respect for ownership or rusterrorism :)</li>
   <li>Not my cup of tea, but I have to drink it every day.</li>
   <li>https://twitter.com/loige/status/1302913428223336448</li>
 </ol>
