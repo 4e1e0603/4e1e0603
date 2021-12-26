@@ -10,11 +10,11 @@ Hello, I am a _chaotic good_ programmer with an interest in  __simulations__ & _
 -  __Docker__, __Debian/Windows__, __REST__, __Profiling/Debugging__, __CI/CD__ (GitHub Actions) &hellip;
 </details>
 
-&mdash;All the best, 𝕯𝔞𝔳𝔦𝔡 𝕷𝔞𝔫𝔡𝔞
-
 <details>
   <summary><b>Motto</b></summary>
 
 > “Make it work, then make it beautiful, then if you really, really have to, make it fast. 90 percent of the time, if you make it beautiful, it will already be fast. So really, just make it beautiful!” — Joe Armstrong (Erlang)
   
 </details>
+
+&mdash;All the best, 𝕯𝔞𝔳𝔦𝔡 𝕷𝔞𝔫𝔡𝔞
