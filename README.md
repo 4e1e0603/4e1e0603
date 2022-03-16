@@ -15,6 +15,8 @@ Hello, I am a _chaotic good_ programmer with an interest in  __simulations__ & _
 
 > “Make it work, then make it beautiful, then if you really, really have to, make it fast. 90 percent of the time, if you make it beautiful, it will already be fast. So really, just make it beautiful!” — Joe Armstrong (Erlang)
   
+> There is a pattern for everything! 
+  
 </details>
 
 &mdash;All the best, 𝕯𝔞𝔳𝔦𝔡 𝕷𝔞𝔫𝔡𝔞
