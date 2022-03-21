@@ -1,5 +1,7 @@
 # 𝖌 ∘ 𝖋
 
+The 𝖌 ∘ 𝖋 is read as "g of f", "g after f", "g circle f", "g round f", "g about f", "g composed with f", "g following f", "f then g", or "g on f".
+
 <details>
   <summary><b>About</b></summary>
 
