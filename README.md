@@ -2,8 +2,7 @@
 
 The 𝖌 ∘ 𝖋 is read as "g of f", "g after f", "g circle f", "g round f", "g about f", "g composed with f", "g following f", "f then g", or "g on f".
 
-<details>
-  <summary><b>About</b></summary>
+## About
 
 Hello, I am a _chaotic good_ programmer with an interest in  __simulations__ & __visualization__, __domain-driven design__, __workflow systems__ & __integration patterns__. Below is a list of technologies I currently use&hellip;
 
@@ -20,5 +19,14 @@ Hello, I am a _chaotic good_ programmer with an interest in  __simulations__ & _
 > There is a pattern for everything! 
   
 </details>
+
+## Projects
+
+### Educational
+
+- [Julia course](https://github.com/groundf/course-julia)
+- [Python course](https://github.com/groundf/course-python)
+- [Fortran course](https://github.com/groundf/course-fortran)
+
 
 &mdash;All the best, 𝕯𝔞𝔳𝔦𝔡 𝕷𝔞𝔫𝔡𝔞
