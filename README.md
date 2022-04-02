@@ -24,9 +24,9 @@ Hello, I am a _chaotic good_ programmer with an interest in  __simulations__ & _
 
 ### Educational
 
-- [Julia course](https://github.com/groundf/course-julia)
-- [Python course](https://github.com/groundf/course-python)
-- [Fortran course](https://github.com/groundf/course-fortran)
+- [Julia course](https://github.com/groundf/course-julia) [work-in-progress]
+- [Python course](https://github.com/groundf/course-python) [work-in-progress]
+- [Fortran course](https://github.com/groundf/course-fortran) [work-in-progress]
 
 
 &mdash;All the best, 𝕯𝔞𝔳𝔦𝔡 𝕷𝔞𝔫𝔡𝔞
