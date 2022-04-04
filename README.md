@@ -28,5 +28,7 @@ Hello, I am a _chaotic good_ programmer with an interest in  __simulations__ & _
 - [Python course](https://github.com/groundf/course-python) [work-in-progress]
 - [Fortran course](https://github.com/groundf/course-fortran) [work-in-progress]
 
+- Compile my compiler: A tiny compiler from scratch.
+
 
 &mdash;All the best, 𝕯𝔞𝔳𝔦𝔡 𝕷𝔞𝔫𝔡𝔞
