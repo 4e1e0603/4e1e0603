@@ -11,6 +11,9 @@ Hello, I am a _chaotic good_ programmer with an interest in  __simulations__ & _
 -  __Docker__, __Debian/Windows__, __REST__, __Profiling/Debugging__, __CI/CD__ (GitHub Actions) &hellip;
 </details>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=groundf&langs_count=10&layout=compact)](https://github.com/groundf/github-readme-stats)
+
+
 <details>
   <summary><b>Motto</b></summary>
 
