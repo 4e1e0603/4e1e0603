@@ -1,6 +1,8 @@
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=groundf&langs_count=10&layout=compact&hide=html,css,jupyter%20notebook,batchfile,shell,smarty,dockerfile)](https://github.com/groundf/github-readme-stats)
 
-
+|||
+|--|--|
+|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=groundf&langs_count=10&layout=compact&hide=html,css,jupyter%20notebook,batchfile,shell,smarty,dockerfile)](https://github.com/groundf/github-readme-stats) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=groundf&show_icons=true&theme=radical)|
+ 
 <details>
   <summary>𝖌 ∘ 𝖋</summary>
 
