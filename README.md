@@ -9,6 +9,4 @@ The rule of silence, also referred to as the silence is golden rule, is an impor
   The 𝖌 ∘ 𝖋 is read as "g of f", "g after f", "g circle f", "g round f", "g about f", "g composed with f", "g following f", "f then g", or "g on f".
 </details>
 
-> “Make it work, then make it beautiful, then if you really, really have to, make it fast. 90 percent of the time, if you make it beautiful, it will already be fast. So really, just make it beautiful!” — Joe Armstrong (Erlang)
 
-> “A foolish consistency is the hobgoblin of little minds.” —  Guido van Rossum (Python)
