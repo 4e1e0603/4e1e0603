@@ -2,7 +2,7 @@ I am interested in  __simulations__ & __visualization__, __domain-driven design_
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=groundf&langs_count=10&layout=compact&hide=html,css,jupyter%20notebook,batchfile,shell,smarty,dockerfile)](https://github.com/groundf/github-readme-stats)
 
-The rule of silence, also referred to as the silence is golden rule, is an important part of the Unix philosophy that states that when a program has nothing surprising, interesting or useful to say, it should say nothing.
+I practice *the rule of silence* an important part of the Unix philosophy.
  
 <details>
   <summary>𝖌 ∘ 𝖋</summary>
