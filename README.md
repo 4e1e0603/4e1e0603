@@ -5,7 +5,7 @@ I'm open for collaboration.
 
 ## Projects
 
-All listed projects in development and under construction. I'm tryiong to clean all mess.
+All listed projects in development and under construction. I'm trying to clean all mess.
 
 |public|name|status|updated|description|
 |------|----|------|-------|-----------|
