@@ -6,5 +6,6 @@ I'm open for collaboration.
 - C/C++, Rust, Forth: system programming, numerical programming, emebedded software
 - Go: console programs, HTTP services 
 - Fortran: numerical progamming
-- Erlang, Q/K/APL,  
+- Erlang: distributed systems  
 - Java/JVM
+- APL/Q/K
