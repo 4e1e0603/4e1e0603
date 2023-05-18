@@ -1,7 +1,7 @@
 ## About
 
-- I'm interested in __scientific programming__, __network progamming__, __software architecture & design__, __workflow & integration patterns__, __embeded software/hardware__, __UI/UX__
-- I have professional experience in Python, JavaScript, HTML/CSS, Go, C/C++, Java and academic experience in Fortran. I am also interested in Rust, Forth, Erlang, Lisp and APL family languages, and ML family languages. 
+- I'm interested in __scientific programming__, __network programming__, __software architecture & design__, __workflow & integration patterns__, __embeded software/hardware__, and last but not least, __UI/UX__
+- I have professional experience in Python (CPython, PyPy), JavaScript (browser, Node.js), HTML/CSS, Go, C/C++, and Java/JVM and some academic experience in Fortran and Wolfram. 
+- I am also interested in Rust, Forth, Erlang, Lisp/APL family languages, and ML family languages. 
 - **I'm open for collaboration as a contractor.**
-
 - [Today](https://www.wavelet.space/today/)
