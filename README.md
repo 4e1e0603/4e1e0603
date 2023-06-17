@@ -6,4 +6,4 @@
 - **I'm open for collaboration as a contractor.**
 - [Today](https://www.wavelet.space/today/)
 
-New projects are under [Wavelet](https://www.wavelet.space/) organization.
+New projects are under [Wavelet](https://github.com/wavelet-space) organization.
