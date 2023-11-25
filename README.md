@@ -6,10 +6,8 @@
 
 And finally a few words of wisdom.
 
-> But nothing is so permanent as a temporary solution.</ br>
-> — Russian proverb [^1]
+> Nothing is so permanent as a temporary solution.<br>
+> — Unknown
 
-> Only drug dealers and software companies call their customers ‘users’</ br>
+> Only drug dealers and software companies call their customers ‘users’<br>
 > — Edward Tufte
-
-- [^1]: Free Ukraine! 
