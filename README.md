@@ -9,5 +9,5 @@ And finally a few words of wisdom.
 > Nothing is so permanent as a temporary solution.<br>
 > — Unknown
 
-> Only drug dealers and software companies call their customers ‘users’<br>
+> Only drug dealers and software companies call their customers ‘users’.<br>
 > — Edward Tufte
