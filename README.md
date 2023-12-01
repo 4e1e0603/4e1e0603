@@ -1,2 +1,5 @@
 ~ *Nothing is so permanent as a temporary solution.*
-~ I keep my personal work private for the following years. Thanks for following me.
+
+~ Next few years, I will keep all my personal projects as private. 
+
+~ I want to thank all of my follower's! 
