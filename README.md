@@ -4,4 +4,4 @@
 
 ~ I’m working hard to get this profile to a readable state. The expected date is the end of 2023.
 
-~ I want to thank all of my follower's! 
+~ I want to thank all of my followers! 
